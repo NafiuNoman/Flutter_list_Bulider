@@ -8,13 +8,13 @@ void main() {
 class MyApp2 extends StatelessWidget {
   final List _post = [
     'noman',
-    'farhana',
     'rafiu',
     'rawshan',
     'Rana',
     'Sumon',
     'Rifat',
-    'Jackey Chan'
+    'Jackey Chan',
+    'Salman Khan',
   ];
 
   MyApp2({Key? key}) : super(key: key);
